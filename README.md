@@ -6,7 +6,7 @@
 
 В работе был реализован алгоритм полного перебора, приближенный (жадный) алгоритм и генетический алгоритм.
 
-# Planning cargo delivery taking into account limitations on delivery time
+# Cargo delivery planning taking into account limitations on delivery time
 
 There is one storage and several delivery points. Cargos should be delivered to each point at certain time window. It is necessary to minimize the number of cars.
 
